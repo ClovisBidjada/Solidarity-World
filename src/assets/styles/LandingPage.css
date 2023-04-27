@@ -1,0 +1,67 @@
+.landingpage{
+    height: 700px;
+    width: auto;
+}
+
+.landingpage h1{
+    font-size: 80px;
+    margin-top: 200px;
+    text-align: center;
+    text-transform: initial;
+    text-decoration: none;
+}
+
+.landingpage h4{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.landingpage p{
+    width: 100%;
+    padding-top: 20px;
+    width: 100%;
+    margin-top: 10px;
+    text-align: justify;
+    text-transform: initial;
+    text-decoration: none;
+    size: 10px;
+}
+
+
+.landingpage .landing-contenu .btn {
+    margin: 40px;
+    padding: 8px;
+    width: 180px;
+    font-size: 15px;
+    color: #fff;
+    text-transform: uppercase;
+    font-style: normal;
+    box-shadow: 10px 10px 10px 2px rgba(255, 255, 255, 0.069);
+
+
+}
+
+.bt1 {
+   background: #fff;
+   color: #fff;
+   border: none;
+
+}
+
+.bt2 {
+    background: none;
+    color: #fff;
+ 
+ }
+ .icon{
+    color: rgb(32, 184, 230);
+ }
+
+ .icon-landingpage{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+ }
+ .icon-landingpage .secteur-icon{
+    margin-bottom: 10px;
+ }

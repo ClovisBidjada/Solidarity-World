@@ -1,0 +1,171 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  scroll-behavior: auto;
+
+}
+
+ #services{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 160px;
+    display: flexbox;
+    position: relative;
+    
+}
+
+.Nav {
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 1);
+  display: block;
+  position: absolute;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+
+}
+.App {
+  text-align: center;
+}  
+
+.App  .navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 80px;
+  background-color: #fff;
+  /* autres styles de mise en forme de la navbar */
+}
+
+
+.App-logo {
+  height: 20px;
+  width: 30px;
+  pointer-events: none;
+}
+
+.Nav .navbar a {
+  margin-left: 30px;
+  position: relative;
+  float: right;
+  padding: 5px 5px;
+  margin-top: 8px;
+  margin-right: 10px;
+  margin-bottom: 8px;
+  width: auto;
+  background-color: transparent;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.Nav .navbar .list-menu{
+  margin: 500px;
+}
+
+.Nav .navbar .list-menu a{
+  text-align: center;
+  margin-left: 30px;
+  position: relative;
+  padding-right: 5px;
+  margin-right: 10px;
+  color: #1089ff;
+  font-size: 15px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.Nav .navbar .list-menu >a:hover{
+    font-weight: 500;
+  color: #1089ff;
+  text-decoration: underline;
+}
+
+
+
+.icon {
+  width: 250px;
+  position: relative;
+  display: flex;
+}
+.Nav-bar {
+
+  background-color: #ffffff;
+  color: #000000;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+}
+
+.Nav-bar ul {
+  list-style-type: none;
+  position: relative;
+  display: inline-flex;
+  margin-right: 50px;
+  padding: 0;
+}
+
+.Nav-bar li {
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: inherit;
+  display: flex;
+  color: #14baed;
+  text-decoration: none;
+}
+
+.Nav-bar li:last-child {
+  margin-right: 0;
+  color: #fff;
+}
+
+.Nav-bar a {
+  color: #0c6ef8;
+  text-decoration: none;
+}
+
+
+.App .App-header .video .video-container video{
+  position: relative;
+  display: flex;
+  width: 100%;
+  border-radius: 2%;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #fff;
+  height: 100px;
+  margin: 10px 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+}
+
+.App-link {
+  color: #a59999;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+

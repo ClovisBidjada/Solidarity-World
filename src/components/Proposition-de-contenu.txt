@@ -1,0 +1,27 @@
+Voici une proposition de contenu pour le site 
+
+
+Page d'accueil :
+- Une introduction qui explique le but du site : aider les gens à se préparer pour le futur en utilisant les outils numériques disponibles pour développer leurs compétences et leur bien-être émotionnel.
+- Une liste des différents sujets que le site va aborder, tels que la gestion du temps, la productivité, la créativité, la communication, la sécurité en ligne, etc.
+- Des témoignages de personnes ayant réussi à se préparer pour l'avenir grâce aux conseils et aux outils numériques du site.
+- Des liens vers les pages les plus importantes du site, telles que la page "Outils" et la page "Articles".
+
+Page "Outils" :
+- Une liste d'outils numériques recommandés pour aider les visiteurs à développer leurs compétences et leur bien-être émotionnel, tels que des applications de gestion du temps, de la productivité, de la créativité, de la communication, etc.
+- Des descriptions détaillées de chaque outil, y compris les avantages et les inconvénients, ainsi que des notes sur le niveau de difficulté ou le public cible.
+- Des filtres pour aider les visiteurs à trouver rapidement les outils qui les intéressent en fonction de leur sujet, de leur format, de leur niveau de difficulté, etc.
+
+Page "Articles" :
+- Des articles sur les différents sujets liés à la préparation pour l'avenir grâce aux outils numériques, tels que la gestion du temps, la productivité, la créativité, la communication, la sécurité en ligne, etc.
+- Des conseils pratiques pour aider les visiteurs à mettre en pratique les principes présentés dans les articles en utilisant les outils numériques recommandés.
+- Des témoignages de personnes qui ont réussi à appliquer ces principes dans leur vie quotidienne en utilisant les outils numériques recommandés.
+
+Page "A propos" :
+- Des informations sur l'équipe du site, y compris les membres fondateurs et les contributeurs réguliers.
+- Une présentation de la mission et des valeurs du site, ainsi que de sa vision pour l'avenir.
+- Des informations sur les partenariats et les collaborations avec d'autres organisations et experts dans le domaine des outils numériques pour la préparation pour l'avenir.
+
+Page "Contact" :
+- Un formulaire de contact pour permettre aux visiteurs de poser des questions, de donner leur avis ou de proposer des idées pour améliorer le site.
+- Des liens vers les réseaux sociaux du site pour encourager les visiteurs à suivre les mises à jour et à partager le site avec leurs amis et leur famille.

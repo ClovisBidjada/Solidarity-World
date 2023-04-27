@@ -1,0 +1,58 @@
+.partner-row {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0 100px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    display: flexbox;
+}
+
+.partner-row .logo-partner{
+    margin: 50px;
+    width: max-content;
+    text-align: center;
+    position: relative;
+    display: flex;
+}
+
+.partner-row .logo-partner a:hover{
+    overflow-x: auto;
+}
+
+.partner .logo-partner{
+    padding: 0px;
+    display: flexbox;
+    box-sizing: border-box;
+    -webkit-box-shadow: 1px 1px 1px 1px rgba(204,204,204,1);
+    -moz-box-shadow: 1px 2px 1px 1px rgba(204,204,204,1);
+    box-shadow: 1px 1px 1px 1px rgba(204,204,204,1);
+
+}
+
+.partner-row{
+    margin: 100px;
+}
+
+.partner-row .logo-partner{
+    padding: 10px;
+}
+
+.partner .partner-text{
+    margin: 10px;
+    color: rgb(32, 184, 230);
+    font-size: 40px;
+}
+
+.partner p{
+    margin: 10px;
+    color: rgb(32, 184, 230);
+    font-size: 20px;
+    margin-top: 10px;
+    color: #000;
+}
+.partner .logo-partner img{
+    width: 200px;
+    margin-top: 10px;
+
+}

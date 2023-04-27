@@ -1,0 +1,10 @@
+.footer{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+
+.footer .footer-option .footer-menu a{
+    text-align: justify;
+    color: #fff;
+    text-justify:auto ;
+}

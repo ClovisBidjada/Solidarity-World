@@ -1,0 +1,31 @@
+Proposition de contenu pour le site 
+
+Page d'accueil :
+- Une présentation générale du site, expliquant son objectif : fournir un portail participatif global qui permet aux utilisateurs d'accéder à différentes plateformes et services conçus et agrégés par la communauté.
+- Une liste des principales fonctionnalités et des avantages du site, tels que la possibilité de découvrir de nouvelles plateformes et services, de partager des connaissances et des compétences, de participer à des projets collaboratifs, de donner et de recevoir des commentaires et des critiques, etc.
+- Des témoignages d'utilisateurs satisfaits qui ont bénéficié du site pour découvrir de nouveaux services ou plateformes.
+- Des liens vers les pages les plus importantes du site, telles que la page "Découvrir", la page "Participer" et la page "Contribuer".
+
+Page "Découvrir" :
+- Une liste de différentes plateformes et services conçus et agrégés par la communauté, classés par catégories telles que la productivité, la créativité, la communication, le divertissement, l'apprentissage, etc.
+- Des descriptions détaillées de chaque plateforme et service, y compris les avantages et les inconvénients, ainsi que des notes sur le niveau de difficulté ou le public cible.
+- Des filtres pour aider les visiteurs à trouver rapidement les plateformes et les services qui les intéressent en fonction de leur catégorie, de leur format, de leur niveau de difficulté, etc.
+
+Page "Participer" :
+- Une liste des projets collaboratifs en cours, tels que des groupes de travail, des hackathons, des défis, des concours, etc.
+- Des descriptions détaillées de chaque projet, y compris les objectifs, les règles, les critères de participation, les prix, etc.
+- Des informations sur la façon de rejoindre ou de créer un projet collaboratif, de proposer une idée, de recruter des membres ou de trouver des partenaires.
+
+Page "Contribuer" :
+- Des informations sur la façon de contribuer au site en partageant des connaissances, des compétences ou des ressources.
+- Des instructions pour proposer une plateforme ou un service conçu et agrégé par la communauté, y compris les critères de sélection, le processus de soumission et les avantages pour les contributeurs.
+- Des forums de discussion pour permettre aux utilisateurs de donner et de recevoir des commentaires et des critiques constructives, ainsi que de partager des expériences et des astuces.
+
+Page "À propos" :
+- Des informations sur l'équipe du site, y compris les membres fondateurs et les contributeurs réguliers.
+- Une présentation de la mission et des valeurs du site, ainsi que de sa vision pour l'avenir.
+- Des informations sur les partenariats et les collaborations avec d'autres organisations et experts dans le domaine des plateformes et services conçus et agrégés par la communauté.
+
+Page "Contact" :
+- Un formulaire de contact pour permettre aux visiteurs de poser des questions, de donner leur avis ou de proposer des idées pour améliorer le site.
+- Des liens vers les réseaux sociaux

@@ -1,0 +1,85 @@
+.cards-products-home.circles {
+    width: fit-content;
+    margin: 50px auto 0px;
+    display: grid;
+    grid-template-columns: repeat(4,minmax(80px,200px));
+    gap: 30px;
+    text-align: center;
+}
+
+.cards-products-home {
+    margin: 40px -10px 50px;
+}
+
+.container:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.cards-products-home.circles .cards-products-home__item .cards-products-home__item__image .circle {
+    width: 120px;
+    height: 120px;
+    background: linear-gradient(218.58deg,#24486d 11.5%,#1089ff 87.95%);
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.cards-products-home.circles .cards-products-home__item .cards-products-home__item__image .circle .image {
+    width: 114px;
+    height: 114px;
+    border: 4px solid #fff;
+    border-radius: 50%;
+    margin: 0 auto;
+    z-index: 0;
+    overflow: hidden;
+    padding: 18px;
+    background: linear-gradient(110.49deg,#eff3f6 26.28%,#d7d7ff 94.17%);
+}
+
+.cards-products-home.circles .cards-products-home__item .cards-products-home__item__image img, .cards-products-home.circles .cards-products-home__item .cards-products-home__item__image video {
+    transition: all .2s ease-in-out;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.cards-products-home.circles .cards-products-home__item .cards-products-home__item__text {
+    color: #374957;
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+
+.cards-products-home.circles .cards-products-home__item .cards-products-home__item__text h6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    flex-wrap: wrap;
+    font-weight: 800;
+}
+
+.cards-products-home.circles .cards-products-home__item .cards-products-home__item__text p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    font-size: 12px;
+}
+
+.cards-products-home.circles .cards-products-home__item .cards-products-home__item__text span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    color: #1089ff;
+    flex-wrap: wrap;
+    font-size: 25px;
+    font-weight: 800;
+}

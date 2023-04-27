@@ -1,0 +1,145 @@
+.no-header+.main-content {
+    padding-top: 0;
+}
+
+.section-option {
+    width: 80%;
+    padding: 30px 0 40px;
+    position: relative;
+}
+
+.section .container {
+    width: 100%;
+    max-width: none;
+}
+
+#page-inscription .blocs-inscription {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#page-inscription .bloc-inscription {
+    color: #fff;
+}
+
+#page-inscription .main-content:before {
+    position: absolute;
+    display: block;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: #1089ff ;
+    opacity: .6;
+}
+
+#page-inscription .bloc-inscription .titre {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+#page-inscription .bloc-inscription .titre .image {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    font-size: 12px;
+    text-align: center;
+    color: #ccc;
+}
+
+#page-inscription .bloc-inscription .titre .texte {
+    margin-top: 15px;
+    font-family: 'Neuzeit Grotesk','Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+#page-inscription .bloc-inscription .sous-titre {
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.blue {
+    color: #fff;
+}
+
+#page-inscription br.mobile {
+    display: none;
+}
+
+#page-inscription .bloc-inscription .liste {
+    margin-top: 30px;
+    position: relative;
+    display: flex;
+}
+
+#page-inscription .bloc-inscription .liste ul {
+    list-style-image: url(../../assets/img/icon/014-struggle.png);
+    display: flex;
+    position: relative;
+    padding-left: 24px;
+}
+
+#page-inscription .bloc-inscription .liste li {
+    font-size: 17px;
+    line-height: 21px;
+    padding-left: 2px;
+    display: flex;
+    position: relative;
+}
+
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
+
+#page-inscription .bloc-inscription .bouton {
+    margin-top: 30px;
+}
+
+#page-inscription .bloc-inscription .bouton .btn {
+    font-size: 20px!important;
+}
+#freelance-informatique .btn-orange, #freelance-informatique .btn-primary {
+    background-color: #F68929;
+    color: #fff;
+    border: 2px solid #F68929;
+}
+
+#freelance-informatique .btn {
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 0.7em 1.4em;
+    letter-spacing: .06em;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
